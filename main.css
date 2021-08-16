@@ -1,0 +1,40 @@
+photo {
+
+    max-width: 50px;
+
+    border: 5px solid #fff;
+    border-radius: 5px;
+    margin-top: -50px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+body {
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #69CF49;
+}
+
+.card {
+
+    background-color: #2F362F;
+
+    font-family: monospace;
+    height: 450px;
+    width: 425px;
+    border-radius: 20px;
+}
+
+.up {
+
+    display: flex;
+
+    justify-content: space-between;
+}
