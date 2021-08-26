@@ -19,7 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #69CF49;
+    background-color: #609E8E;
 }
 
 .card {
@@ -30,6 +30,7 @@ body {
     height: 450px;
     width: 425px;
     border-radius: 20px;
+    
 }
 
 .up {
